@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.1283332a.chunk.css",
-    "main.js": "/static/js/main.3a38210c.chunk.js",
-    "main.js.map": "/static/js/main.3a38210c.chunk.js.map",
+    "main.js": "/static/js/main.c9d12562.chunk.js",
+    "main.js.map": "/static/js/main.c9d12562.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0e7ebaa3.js",
     "runtime-main.js.map": "/static/js/runtime-main.0e7ebaa3.js.map",
-    "static/js/2.8ccd20b5.chunk.js": "/static/js/2.8ccd20b5.chunk.js",
-    "static/js/2.8ccd20b5.chunk.js.map": "/static/js/2.8ccd20b5.chunk.js.map",
+    "static/js/2.32a73a45.chunk.js": "/static/js/2.32a73a45.chunk.js",
+    "static/js/2.32a73a45.chunk.js.map": "/static/js/2.32a73a45.chunk.js.map",
     "static/js/3.0ceb5fcc.chunk.js": "/static/js/3.0ceb5fcc.chunk.js",
     "static/js/3.0ceb5fcc.chunk.js.map": "/static/js/3.0ceb5fcc.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.1283332a.chunk.css.map": "/static/css/main.1283332a.chunk.css.map",
-    "static/js/2.8ccd20b5.chunk.js.LICENSE.txt": "/static/js/2.8ccd20b5.chunk.js.LICENSE.txt",
+    "static/js/2.32a73a45.chunk.js.LICENSE.txt": "/static/js/2.32a73a45.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/static/media/Montserrat-SemiBold.fa8441f3.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.0e7ebaa3.js",
-    "static/js/2.8ccd20b5.chunk.js",
+    "static/js/2.32a73a45.chunk.js",
     "static/css/main.1283332a.chunk.css",
-    "static/js/main.3a38210c.chunk.js"
+    "static/js/main.c9d12562.chunk.js"
   ]
 }
